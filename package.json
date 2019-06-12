@@ -1,0 +1,39 @@
+{
+  "name": "react-router-json-routes-loader",
+  "version": "0.1.0",
+  "description": "Library of tools for using json-routes-loader in your react-router project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/babel src --out-file index.js"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "json",
+    "jcod",
+    "route",
+    "react-router"
+  ],
+  "author": "Nicolas KOKLA",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "chokidar": "^2.1.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0"
+  },
+  "dependencies": {
+    "json-routes-loader": "^0.1.1"
+  }
+}
