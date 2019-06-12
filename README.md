@@ -7,7 +7,7 @@ React-router implementation of [json-routes-loader](https://github.com/nkokla/js
 Install the `react-router-json-routes-loader` lib.
 
 ```bash
-npm i json-routes-loader
+npm i react-router-json-routes-loader
 ```
 
 ## Prerequisites
