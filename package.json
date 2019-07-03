@@ -16,6 +16,10 @@
     "route",
     "react-router"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkokla/react-router-json-routes-loader"
+  },
   "author": "Nicolas KOKLA",
   "license": "MIT",
   "peerDependencies": {
@@ -35,6 +39,6 @@
     "react-router-dom": "^5.0.0"
   },
   "dependencies": {
-    "json-routes-loader": "^0.1.1"
+    "json-routes-loader": "^0.3.1"
   }
 }
